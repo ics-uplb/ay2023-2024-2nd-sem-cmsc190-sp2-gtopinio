@@ -1,8 +1,8 @@
-# My Special Problem: An example of CMSC 190 GitHub Repository
-Authors: Juan D. Cruz and Adviser' S. Name
+# OSES Connect: A Centralized Attendance Management System for Ortiz-Saranay Elementary School
+Authors: Mark Genesis C. Topinio and Mylah Rystie U. Anacleto
 
-This is the abstract of my special problem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut congue, diam molestie pellentesque feugiat, lorem libero vehicula lorem, eget accumsan magna mi non sem. Aliquam erat volutpat. Aliquam scelerisque sagittis mi sed consequat. Ut vestibulum ullamcorper fermentum. Vivamus eu efficitur nunc, quis tempus libero. Aliquam condimentum posuere sem, vitae auctor purus tempus quis. Aenean laoreet nulla pretium mauris faucibus gravida. Nunc interdum, tortor at tempus egestas, velit eros bibendum dui, a malesuada mi lectus ut ante. Praesent ac turpis gravida, tincidunt tellus vitae, volutpat tortor.
+Ortiz-Saranay Elementary School (OSES) recognizes the importance of regular attendance for student development, academic performance, teacher accountability, and professionalism. However, the school currently relies on physical forms, which are labor-intensive and error-prone for attendance tracking. This study proposes a web-based attendance management system, OSES Connect, to address these challenges. The system will digitize the attendance process by using Quick Response codes. It will also enhance transparency by providing parents with email notifications about their children’s attendance. Additionally, OSES Connect will generate reports, replacing the manual use of physical forms, for more efficient management of attendance data. The system’s usability and effectiveness will be evaluated using the System Usability Scale.
 
-Keywords: template, submission, repository, example
+Keywords: attendance management system
 
 Read [How To Document](HOWTO.md) for more details.

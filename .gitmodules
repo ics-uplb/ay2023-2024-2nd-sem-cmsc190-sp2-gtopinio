@@ -1,0 +1,6 @@
+[submodule "code/frontend"]
+	path = code/frontend
+	url = https://github.com/gtopinio/oses-connect-app
+[submodule "code/backend"]
+	path = code/backend
+	url = https://github.com/gtopinio/spring-boot-oses-connect
