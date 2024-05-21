@@ -1,8 +1,10 @@
 # OSES Connect: A Centralized Attendance Management System for Ortiz-Saranay Elementary School
 Authors: Mark Genesis C. Topinio and Mylah Rystie U. Anacleto
 
-Ortiz-Saranay Elementary School (OSES) recognizes the importance of regular attendance for student development, academic performance, teacher accountability, and professionalism. However, the school currently relies on physical forms, which are labor-intensive and error-prone for attendance tracking. This study proposes a web-based attendance management system, OSES Connect, to address these challenges. The system will digitize the attendance process by using Quick Response codes. It will also enhance transparency by providing parents with email and SMS notifications about their children’s attendance. Additionally, OSES Connect will generate reports, replacing the manual use of physical forms, for more efficient management of attendance data. The system’s usability and effectiveness will be evaluated using the System Usability Scale.
+A low-cost web-based attendance management system, OSES Connect, was developed for Ortiz-Saranay Elementary School (OSES) to address the labor-intensive and error-prone nature of their existing physical form-based attendance tracking processes for students and teachers. The system digitized the attendance process using Quick Response (QR) codes and incorporated a Markov Chain model to predict absenteeism. OSES Connect improved parental monitoring by providing parents with email and Short Message Service (SMS) notifications about their children's attendance. Additionally, it generates comprehensive reports, augmenting the manual use of physical forms to manage attendance data efficiently. The system's usability and effectiveness were evaluated using the System Usability Scale, and it received an overall usability rating of 84.844 from 16 teacher respondents, indicating a high level of user satisfaction.
 
-Keywords: attendance management system
+Keywords: attendance management system,  web application, Markov Chain
+
+---
 
 Read [How To Document](HOWTO.md) for more details.
