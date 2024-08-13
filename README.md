@@ -5,6 +5,7 @@ A low-cost web-based attendance management system, OSES Connect, was developed f
 
 Keywords: attendance management system,  web application, Markov Chain
 
+MRUANACLETO VERIFIED 13 AUGUST 2024
 ---
 
 Read [How To Document](HOWTO.md) for more details.
